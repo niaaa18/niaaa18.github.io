@@ -354,7 +354,10 @@ a:hover, a:active, a:focus {
 #home h1 {
   color: #ffffff;
 }
-
+#home p {border:solid 1.5px #F9f9f9;
+padding: 20px 20px;
+display:inline-block;
+}
 
 #home .col-md-8 {
   padding-left: 62px;
